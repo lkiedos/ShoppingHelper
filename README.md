@@ -1,6 +1,6 @@
-## Pharmacy App
-Design of an application that helps to manage the consumed medicines.
+## Shopping Helper
+An application that helps you plan your purchases and search for the cheapest products.
 
 ## Interface
-![Example screenshot](/img/interface.png)
+![Example screenshot](/img/interface.png) {width=40px height=400px}
 
