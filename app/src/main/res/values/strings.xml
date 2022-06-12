@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">SHOPPING HELPER</string>
+    <string name="scan_barcode_button" translatable="false">SKANUJ</string>
+    <string name="SEARCH" translatable="false">SZUKAJ</string>
+    <string name="barcode_result" translatable="false">Kod wykryty.\n%1$s</string>
+    <string name="error_scanner_cancelled" translatable="false">Skanowanie anulowane.</string>
+    <string name="error_camera_permission_not_granted" translatable="false">Nie przyznano uprawnień kamerze.</string>
+    <string name="error_app_name_unavailable" translatable="false">Nazwa nieznana.</string>
+    <string name="error_default_message" translatable="false">Błąd skanowania: %1$s</string>
+    <string name="google_map_key">AIzaSyDgsKetxIcZlkZpK7DgZMoYGbsYXfMloyY</string>
+</resources>
